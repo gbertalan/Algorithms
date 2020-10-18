@@ -10,9 +10,16 @@ footer {
 .content {
     width: 80%;
     border: 1px solid black;
-    min-height: 100px;
+    min-height: 200px;
     margin: auto;
-
-    display: flex;
-    
+}
+.algorithm-name {
+    margin: auto;
+    text-align: center;
+}
+input {
+    width: 20px;
+}
+.sort-button {
+    width: 50px;
 }

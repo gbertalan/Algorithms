@@ -19,6 +19,7 @@ footer {
 }
 input {
     width: 20px;
+    text-align: right;
 }
 .sort-button {
     width: 50px;

@@ -10,7 +10,7 @@ header, footer {
     width: 200px;
     height: 25PX;
     opacity: 0.1;
-    transition: opacity 2300ms ease;
+    transition: opacity 230ms ease;
 }
 #logo:hover {
     cursor: pointer;
